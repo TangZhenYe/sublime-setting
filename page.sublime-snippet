@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+import globalDatas from '../../../utils/globalDatas'
+import blend from '../../../utils/blend'
+Page(
+	blend({
+		data: {
+			$1
+		},
+		onShow () {
+			let [_, __] = [new getApp(), this]; _.dialog()
+			$2
+		},
+		onHide () {
+		},
+		onError (msg) {
+			console.log(msg)
+		},
+	}, globalDatas)
+	)
+]]></content>
+<tabTrigger>page</tabTrigger>
+</snippet>

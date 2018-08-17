@@ -1,0 +1,31 @@
+<snippet>
+	<content><![CDATA[
+<template>
+	<div class="footer-box">
+		
+	</div>
+</template>
+<script>
+	
+export default {
+	name: 'footer',
+	data () {
+		return {
+
+		}
+	},
+	created () {
+
+	},
+	methods: {
+
+	},
+}
+</script>
+
+<style lang="scss" scoped>
+	
+</style>
+]]></content>
+	<tabTrigger>vue</tabTrigger>
+</snippet>

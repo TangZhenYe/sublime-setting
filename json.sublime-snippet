@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{
+	"navigationBarTitleText": "$1"
+}
+]]></content>
+	<tabTrigger>json</tabTrigger>
+</snippet>

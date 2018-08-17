@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<!-- 公共dialog -->
+<import src="/components/dialog/dialog.wxml" />
+<template is="dialog" data="{{ ..._dialog }}"></template>
+<!-- 公共dialog -->
+]]></content>
+	<tabTrigger>wxml</tabTrigger>
+</snippet>
